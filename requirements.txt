@@ -1,0 +1,13 @@
+numpy
+scipy
+pandas
+scikit-learn
+statsmodels
+opencv-python
+pillow
+tqdm
+torch
+torchvision
+ultralytics
+torchreid
+gdown
